@@ -3,7 +3,7 @@
 ## 页面配置
 ################
 # 作者名称
-user_name: ykwang
+user_name: Johnexus
 # 网站名称
 site_name: OneNav
 # 网站Favicon
@@ -33,11 +33,11 @@ categories:
   - category: Star Links
     icon: fa-solid fa-star
     links:
-      - title: ykwangの主页
+      - title: Johnexusの主页
         logo: https://gh.ykwang.top/icon/svg/Home.svg
         url: https://www.ykwang.top/
         description: 我的主页, 欢迎访问
-      - title: ykwangの博客
+      - title: Johnexusの博客
         logo: https://gh.ykwang.top/icon/svg/Blog.svg
         url: https://blog.ykwang.top/
         description: 我的博客, 欢迎留言
