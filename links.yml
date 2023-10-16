@@ -35,19 +35,19 @@ categories:
     links:
       - title: Johnexusの主页
         logo: https://gh.ykwang.top/icon/svg/Home.svg
-        url: https://www.ykwang.top/
+        url: https://personal.lizhe0326.eu.org/
         description: 我的主页, 欢迎访问
       - title: Johnexusの博客
         logo: https://gh.ykwang.top/icon/svg/Blog.svg
         url: https://blog.ykwang.top/
-        description: 我的博客, 欢迎留言
-      - title: ykwangの监测站
+        description: 原作者博客, 欢迎留言
+      - title: Johnexusの监测站
         logo: https://gh.ykwang.top/icon/svg/CheckCircle.svg
-        url: https://monitor.ykwang.top/
+        url: https://web-check.as93.net/
         description: 监测网站运行状态
-      - title: Email
+      - title: JohnexusのEmail
         logo: https://gh.ykwang.top/icon/svg/Envelope.svg
-        url: mailto:email@ykwang.top
+        url: 645723995@qq.com
         description: 点击即可通过邮件联系我
 
   - category: Proxy
@@ -241,7 +241,7 @@ categories:
         url: https://yanglegeyang.ykwang.dynv6.net/
         description: 低配版羊了个羊系列小游戏, 部署于Vercel
       - title: 吃掉小鹿乃
-        logo: https://crowded-coffee-wombat.faviconkit.com/madisonwirtanen.github.io/EatKano/64
+        logo: https://raw.githubusercontent.com/arcxingye/EatKano/main/static/image/ClickBefore.png
         url: https://madisonwirtanen.github.io/EatKano/
         description: 新概念音游, 部署于GitHub Pages
       - title: 神奇海螺试验场
