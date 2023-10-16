@@ -253,11 +253,11 @@ categories:
         url: https://madisonwirtanen.github.io/AntiOCR/
         description: 在图片上随机画点线以干扰文字识别通过公众号审核, 部署于GitHub Pages
       - title: 图种制作
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/link.png
+        logo: https://github.com/xushier/HD-Icons/blob/main/border-radius/Youtubedl_C.png
         url: https://madisonwirtanen.github.io/js-seed-map/
         description: 图种制作工具, 将压缩包与图片合成一张新图片, 部署于GitHub Pages
       - title: 114514论证器
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/link.png
+        logo: https://github.com/xushier/HD-Icons/blob/main/border-radius/Freegamesclaimer_A.png
         url: https://madisonwirtanen.github.io/homo/
         description: 一个将任意数字分解成 114514 构成的公式的工具, 部署于GitHub Pages
       - title: FakeUpdate
